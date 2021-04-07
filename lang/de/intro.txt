@@ -1,0 +1,5 @@
+Löschen der Historie bedeutet, dass alle alten Revisionen von Seiten und Medien entfernt werden. Alle Änderungen werden ebenfalls in Protokollen gelöscht.
+
+:!: Vergessen Sie nicht, eine Sicherungskopie Ihres Wikis zu erstellen, bevor Sie fortfahren.
+
+:!: Sie sollen das Plugin wahrscheinlich einmal nutzen und dann wieder deinstallieren.

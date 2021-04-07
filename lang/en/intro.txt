@@ -1,0 +1,5 @@
+Deleting history will irretrievably remove previous revisions of pages and media. All edits will be purged form change logs.
+
+:!: Do not forget to **back up** your wiki before proceeding.
+
+:!: You probably want to run this plugin only once and then remove it from your installation after you are done.

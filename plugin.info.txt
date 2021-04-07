@@ -1,0 +1,7 @@
+base   deletehistory
+author Anna Dabrowska
+email  dokuwiki@cosmocode.de
+date   2021-04-08
+name   deletehistory plugin
+desc   Purge all historical data
+url    https://www.dokuwiki.org/plugin:deletehistory
