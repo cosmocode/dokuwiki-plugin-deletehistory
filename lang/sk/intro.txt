@@ -1,0 +1,5 @@
+Odstránenie histórie nenávratne odstráni predchádzajúce revízie stránok a médií. Všetky úpravy budú vymazané zo záznamov zmien.
+
+:!: Pred pokračovaním nezabudnite wiki **zazálohovať**.
+
+:!: Tento plugin pravdepodobne budete chcieť spustiť iba raz a potom ho po dokončení z inštalácie odstrániť.
