@@ -1,0 +1,5 @@
+Ștergerea istoricului va elimina ireversibil reviziile mai vechi ale paginilor și fișierelor media. Toate editările anterioare vor fi eliminate din jurnalul de modificări.
+
+:!: Nu uita să faci o **copie de siguranță** înainte de a continua.
+
+:!: Cel mai probabil vei dori să folosești acest plugin o singură dată și apoi îl vei dezinstala.
